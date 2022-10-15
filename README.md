@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+### I am Priyanshi Bopche,computer science student with specialization in cyber security.
+### I have expertise in Python, which is a major part of my day-to-day work.
+
 
 <!--
 **PriyanshiBopche/PriyanshiBopche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
